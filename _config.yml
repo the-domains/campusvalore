@@ -1,6 +1,6 @@
 name: campusvalore
 favicon: null
-layout_spectrum: 0.6111
+layout_spectrum: 0.5638
 typography_spectrum: 0.63888
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5651220364961773
-  lightness: 0.375
-  saturation: 0.15783023973926902
-  rhythmicContrast: 0.9869647766463459
+    - '#161616'
+    - '#f4e5de'
+    - '#979cb0'
+    - '#bcc2d0'
+    - '#775539'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
